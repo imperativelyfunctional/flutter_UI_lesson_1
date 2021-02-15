@@ -12,3 +12,4 @@
 - 編寫robust程序來兼容不同手機平台和機型
 # 教學預期：學員可以加深了解flutter的基本組件的應用和用途，能夠獨立完成中等難度的UI設計
 視頻地址：https://youtu.be/kezA-K9lS0k
+頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg

@@ -1,16 +1,18 @@
-# lesson_1
+# 本期是flutter教學系列的第一期
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+教學內容包括：
+- Flexible 
+- Expanded
+- Row
+- Column 
+- AspectRatio 
+- Material design 
+- SafeArea 
+- Scaffold
+- 編寫robust程序來兼容不同手機平台和機型
+教學預期：學員可以加深了解flutter的基本組件的應用和用途，能夠獨立完成中等難度的UI設計
+視頻地址：https://youtu.be/kezA-K9lS0k
